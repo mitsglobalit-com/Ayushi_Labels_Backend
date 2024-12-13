@@ -1,14 +1,16 @@
 {
   "assets_master": [
     {
-      "id": "1",
-      "date": "12/13/2024",
+      "id": 1734088221794,
+      "date": "2024-12-13",
       "name": "Paper Role",
-      "length": 1000,
-      "width": 500,
-      "in_out": "in",
-      "square_value": "500.000",
-      "description": "jhdsvhgvdhsbc"
+      "length": "1000",
+      "width": "500",
+      "in_out": "out",
+      "square_value": "500",
+      "description": "sfsdfsdf",
+      "created_at": "2024-12-13T11:10:21.794Z",
+      "updated_at": "2024-12-13T11:21:16.697Z"
     }
   ]
 }
